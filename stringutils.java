@@ -1,2 +1,2 @@
-updating to check stash commands and to verify how it works
-this file contains the String Related functions..
+This file conatains the string related functions
+Added this line for update
